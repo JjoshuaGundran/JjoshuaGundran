@@ -1,25 +1,3 @@
 # Hi there 👋
 
-## I am John Gundran. A college student enjoying the world of coding.
-
----
-I am a Computer Science student that is trying to find my path.
-
-I make random programs from time to time to use in my personal life or just for fun. I am really looking forward to where coding takes me next :)
-
-Thanks for checking me out!
----
-<!--
-**JjoshuaGundran/JjoshuaGundran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am John Gundran
